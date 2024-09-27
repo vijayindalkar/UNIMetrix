@@ -1,4 +1,4 @@
-# OI_Metrics
+# UNIMetrix
  
 ```markdown
 # Unlock Your Marketing Potential with OIMetrics
@@ -26,5 +26,5 @@ At OIMetrics, we help you:
 
 ## Elevate Your Brand. Elevate Your Business.
 
-Discover the power of data-driven marketing with OIMetrics. [Contact us today](#) to learn more.
+Discover the power of data-driven marketing with OIMetrics. Contact us today to learn more.
 ```
