@@ -3,7 +3,9 @@
 ```markdown
 # Unlock Your Marketing Potential with OIMetrics
 
-OIMetrics is a cutting-edge marketing technology company that empowers businesses to optimize <br>their online presence and drive unparalleled growth. Our innovative suite of marketing tools equips you <br> with actionable insights, streamlined workflows, and data-driven decision-making capabilities.
+OIMetrics is a cutting-edge marketing technology company that empowers businesses to optimize 
+their online presence and drive unparalleled growth. Our innovative suite of marketing tools equips you 
+with actionable insights, streamlined workflows, and data-driven decision-making capabilities.
 
 ## Maximize Your Reach. Amplify Your Impact.
 
