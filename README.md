@@ -18,8 +18,7 @@ At OIMetrics, we help you:
 
 ## Transform Your Marketing Strategy with OIMetrics' Solutions:
 
-- SEO and Social Media Management
-- Email Marketing Automation
+- Preformance Marketing
 - Analytics and Reporting
 - Content Optimization
 - Lead Generation and Nurturing
