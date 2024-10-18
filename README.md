@@ -1,29 +1,31 @@
 # UNIMetrix
- 
-```markdown
-# Unlock Your Marketing Potential with UNIMetrix
 
-UNIMetrix is a cutting-edge marketing technology company that empowers businesses to optimize 
-their online presence and drive unparalleled growth. Our innovative suite of marketing tools equips you 
-with actionable insights, streamlined workflows, and data-driven decision-making capabilities.
+<h1>Unlock Your Marketing Potential with UNIMetrix</h1>
 
-## Maximize Your Reach. Amplify Your Impact.
+<p>
+UNIMetrix is a cutting-edge marketing technology company that empowers businesses to optimize their online presence and drive unparalleled growth. Our innovative suite of marketing tools equips you with actionable insights, streamlined workflows, and data-driven decision-making capabilities.
+</p>
 
-At UNIMetrix, we help you:
+<h2>Maximize Your Reach. Amplify Your Impact.</h2>
 
-- Track and analyze customer behavior
-- Optimize campaigns for peak performance
-- Personalize experiences across channels
-- Measure ROI with precision
+<p>At UNIMetrix, we help you:</p>
+<ul>
+  <li>Track and analyze customer behavior</li>
+  <li>Optimize campaigns for peak performance</li>
+  <li>Personalize experiences across channels</li>
+  <li>Measure ROI with precision</li>
+</ul>
 
-## Transform Your Marketing Strategy with UNIMetrix' Solutions:
+<h2>Transform Your Marketing Strategy with UNIMetrix' Solutions:</h2>
+<ul>
+  <li>Performance Marketing</li>
+  <li>Analytics and Reporting</li>
+  <li>Content Optimization</li>
+  <li>Lead Generation and Nurturing</li>
+</ul>
 
-- Preformance Marketing
-- Analytics and Reporting
-- Content Optimization
-- Lead Generation and Nurturing
+<h2>Elevate Your Brand. Elevate Your Business.</h2>
 
-## Elevate Your Brand. Elevate Your Business.
-
-Discover the power of data-driven marketing with UNIMetrix. Contact us today to learn more.
-```
+<p>
+Discover the power of data-driven marketing with UNIMetrix. <strong>Contact us today to learn more.</strong>
+</p>
