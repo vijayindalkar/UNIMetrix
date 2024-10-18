@@ -1,6 +1,6 @@
 # UNIMetrix
  
-```markdown
+
 # Unlock Your Marketing Potential with UNIMetrix
 
 UNIMetrix is a cutting-edge marketing technology company that empowers businesses to optimize 
@@ -26,4 +26,3 @@ At UNIMetrix, we help you:
 ## Elevate Your Brand. Elevate Your Business.
 
 Discover the power of data-driven marketing with UNIMetrix. Contact us today to learn more.
-```
