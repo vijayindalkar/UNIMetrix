@@ -8,7 +8,7 @@ const projects = [
     title: "Customer Lifetime Value Calculator (CLTV)",
     description:
       "Customer Life Time Value is the predicted net profit attributed to the entire future relationship with a customer. CLTV also defines the upper limit for Customer acquisition.",
-    link: "/calculators/cltv",
+    link: "/calcultors/cltv",
   },
   {
     title: "Marketing % Of Customer Acquisition Cost",

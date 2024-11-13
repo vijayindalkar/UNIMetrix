@@ -1,13 +1,10 @@
-import { BentoGrid } from "@/components/ui/bento-grid";
-
-
 export default function RootLayout({
   children,
 }: Readonly<{
   children: React.ReactNode;
 }>) {
   return (
-    <div>
+    <div className="min-h-screen bg-white dark:bg-black">
       {children}
     </div>
   );
