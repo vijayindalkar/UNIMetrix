@@ -1,9 +1,9 @@
 # Uni Metrix
 
-<h1>Unlock Your Marketing Potential with UNIMetrix</h1>
+<h1>Unlock Your Marketing Potential with Uni Metrix</h1>
 
 <p>
-UNIMetrix is a cutting-edge marketing technology company that empowers businesses to optimize their online presence and drive unparalleled growth. Our innovative suite of marketing tools equips you with actionable insights, streamlined workflows, and data-driven decision-making capabilities.
+Uni Metrix is a cutting-edge marketing technology company that empowers businesses to optimize their online presence and drive unparalleled growth. Our innovative suite of marketing tools equips you with actionable insights, streamlined workflows, and data-driven decision-making capabilities.
 </p>
 
 <h2>Maximize Your Reach. Amplify Your Impact.</h2>
