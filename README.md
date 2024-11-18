@@ -8,7 +8,7 @@ UNIMetrix is a cutting-edge marketing technology company that empowers businesse
 
 <h2>Maximize Your Reach. Amplify Your Impact.</h2>
 
-<p>At UNIMetrix, we help you:</p>
+<p>At Uni Metrix, we help you:</p>
 <ul>
   <li>Track and analyze customer behavior</li>
   <li>Optimize campaigns for peak performance</li>
@@ -16,7 +16,7 @@ UNIMetrix is a cutting-edge marketing technology company that empowers businesse
   <li>Measure ROI with precision</li>
 </ul>
 
-<h2>Transform Your Marketing Strategy with UNIMetrix' Solutions:</h2>
+<h2>Transform Your Marketing Strategy with Uni Metrix' Solutions:</h2>
 <ul>
   <li>Performance Marketing</li>
   <li>Analytics and Reporting</li>
