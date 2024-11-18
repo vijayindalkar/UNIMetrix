@@ -1,4 +1,4 @@
-# UNIMetrix
+# Uni Metrix
 
 <h1>Unlock Your Marketing Potential with UNIMetrix</h1>
 
