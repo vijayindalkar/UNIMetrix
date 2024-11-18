@@ -25,7 +25,7 @@ export default function CLTVCalculator() {
       </h2>
 
       <p className="text-lg	 text-center text-gray-700 dark:text-gray-300 my-6">
-        Calculate the estimated net profit from a customer's future relationship
+        Calculate the estimated net profit from a customer&apos;s future relationship
       </p>
 
       <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
