@@ -109,7 +109,7 @@ export const ProductItem = ({
   );
 };
 
-export const HoveredLink = ({ children, ...rest }: any) => {
+export const HoveredLink = ({ children, ...rest }: any) => { // eslint-disable-line @typescript-eslint/no-explicit-any
   return (
     <Link
       {...rest}

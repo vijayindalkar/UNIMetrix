@@ -4,6 +4,7 @@ import * as React from "react";
 import { cn } from "@/lib/utils";
 import { useMotionTemplate, useMotionValue, motion } from "framer-motion";
 
+// eslint-disable-next-line @typescript-eslint/no-empty-object-type
 export interface InputProps
   extends React.InputHTMLAttributes<HTMLInputElement> {}
 
@@ -15,7 +16,7 @@ const Input = React.forwardRef<HTMLInputElement, InputProps>(
     const mouseX = useMotionValue(0);
     const mouseY = useMotionValue(0);
 
-    function handleMouseMove({ currentTarget, clientX, clientY }: any) {
+    function handleMouseMove({ currentTarget, clientX, clientY }: any) { // eslint-disable-line @typescript-eslint/no-explicit-any
       const { left, top } = currentTarget.getBoundingClientRect();
 
       mouseX.set(clientX - left);
