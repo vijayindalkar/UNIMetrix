@@ -36,6 +36,15 @@ const pathVariants = {
   },
 };
 
+//Tried something new
+
+
+
+
+
+
+
+
 const SVG = ({
   svgOptions,
 }: {

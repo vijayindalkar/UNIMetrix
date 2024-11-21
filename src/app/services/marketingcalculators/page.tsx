@@ -7,7 +7,7 @@ const projects = [
   {
     title: "Customer Lifetime Value Calculator (CLTV)",
     description:
-      "Customer Life Time Value is the predicted net profit attributed to the entire future relationship with a customer. CLTV also defines the upper limit for Customer acquisition.",
+        "CLTV predicts net profit from a customer's future relationship, defining the upper limit for acquisition",
     link: "/calcultors/cltv",
   },
   {
@@ -19,79 +19,79 @@ const projects = [
   {
     title: "Marketing Originated Customer %",
     description:
-      "The Marketing Originated Customer % is a ratio that shows what new business is driven by marketing, by determining which portion of your total customer acquisitions directly originated from marketing efforts.",
+      "The Marketing Originated Customer % indicates the portion of new customers acquired through marketing efforts",
     link: "https://google.com",
   },
   {
     title: "Marketing Influenced Customer %",
     description:
-      "The Marketing Influenced Customer % takes into account all of the new customers that marketing interacted with while they were leads, anytime during the sales process.",
+      "The Marketing Influenced Customer % reflects new customers that marketing engaged with during the sales process.",
     link: "https://meta.com",
   },
   {
     title: "Email Marketing ROI Calculator",
     description:
-      "Investing your money in any marketing channel without forecasting its ROI is simply just exposing your funds to risks. To avoid such risks, ROI calculators are widely used to measure any uncertainty in your plan.",
+      "Investing in marketing without forecasting ROI exposes your funds to risks; ROI calculators help mitigate this.",
     link: "https://amazon.com",
   },
   {
     title: "Online Marketing Conversion Calculator",
     description:
-      "This online marketing conversion calculator allows you to evaluate the entire process of internet sales and marketing, from ad clicks to actual sales and ROI. It can be used to test your marketing funnel and determine whether your new digital marketing strategy is productive or needs further changes.",
+      "This online calculator helps evaluate the entire sales process, from ad clicks to sales, testing your marketing funnel and strategy.",
     link: "https://microsoft.com",
   },
   {
     title: "Target ROAS Calculator",
     description:
-      "Target ROAS calculator helps you evaluate targeted return on ad spend, a key metric that indicates the estimated effectiveness of marketing efforts. This target ROAS calculator helps in simply getting an idea of the targeted returns expected so that the user can evaluate actual performance against target performance.",
+      "Target ROAS calculator helps evaluate expected return on ad spend, comparing actual performance against targets.",
     link: "https://microsoft.com",
   },
   {
     title: "Average CPC Calculator",
     description:
-      "Cost Per Click, popularly known as CPC, is a bidding strategy that has been helping marketers to reach the right audience based on the right keywords. CPC (cost per click) is a measure that determines how much advertisers pay for advertisements on websites or social media based on how many clicks the ad receives.",
+      "Cost Per Click (CPC) is a bidding strategy where advertisers pay based on ad clicks, targeting the right audience",
     link: "https://microsoft.com",
   },
   {
     title: "Product Return Rate Calculator",
     description:
-      "Business growth and performance do not solely depend on the sales of your product. Customer satisfaction and revenue are two important factors that determine the success of your product.",
+      "Business growth relies not just on sales, but also on customer satisfaction and revenue for success.",
     link: "https://microsoft.com",
   },
   {
     title: "Retention Rate Calculator",
     description:
-      "The journey of a customer doesn’t end when he/she makes a purchase. In fact, it begins there. Most businesses forget to understand that it costs significantly more to acquire new clients than it does to keep existing ones.",
+      "A customer’s journey starts after a purchase, and retaining existing clients is more cost-effective than acquiring new ones.",
     link: "https://microsoft.com",
   },
   {
     title: "Redemption Rate Calculator",
     description:
-      "One of the most significant KPIs for tracking loyalty programs is the incentive redemption rate, also known as the rewards redemption rate. When compared to the total number of incentives granted, it counts how many incentives have been redeemed.",
+      "Reward redemption rate measures the percentage of incentives redeemed compared to the total granted in loyalty programs.",
     link: "https://microsoft.com",
   },
   {
     title: "Repeat Purchase Rate Calculator",
     description:
-      "The number of customers who have made multiple purchases in a certain time period is known as the repurchase rate (also known as the repeat buy rate). Every brand must monitor the repurchase rate in order to evaluate the effectiveness of its marketing and customer retention strategies.",
+      "The repurchase rate measures the number of customers making multiple purchases, reflecting marketing and retention effectiveness",
     link: "https://microsoft.com",
   },
   {
     title: "Loyal Customer Rate Calculator",
     description:
-      "Customer loyalty is a continuing emotional bond between you and your customers that shows their willingness to interact with you and make repeat purchases from you as opposed to your competition.",
+      "Customer loyalty is an emotional bond that drives repeat purchases and preference over competitors",
     link: "https://microsoft.com",
   },
   {
     title: "Burn Rate and Cash Runway Calculator",
     description:
-      "Cash flow is one important indicator of a successful company. Thus, lowering the burn rate should always be one of the primary concerns of a founder.",
+      "Cash flow is crucial for success, making it essential for founders to focus on lowering burn rate.",
     link: "https://microsoft.com",
   },
   {
     title: "Rule of 40 Calculator",
     description:
-      "SaaS companies are businesses that use software to offer services to clients. It’s a more affordable option than the outdated one-time software purchase that requires customers to host, implement, and maintain it themselves.",
+      "SaaS companies provide software-based services, offering a more affordable alternative to traditional one-time software purchases.",
     link: "https://microsoft.com",
   },
 ];
