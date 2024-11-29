@@ -8,7 +8,7 @@ const projects = [
     title: "Customer Lifetime Value Calculator (CLTV)",
     description:
         "CLTV predicts net profit from a customer's future relationship, defining the upper limit for acquisition",
-    link: "/calcultors/cltv",
+    link: "calculators/cltv",
   },
   {
     title: "Marketing % Of Customer Acquisition Cost",
